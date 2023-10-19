@@ -12,12 +12,12 @@
 
 &kscan0 {
 	col-gpios
-		= <&pro_micro_d 10 GPIO_ACTIVE_HIGH>
-		, <&pro_micro_d 16 GPIO_ACTIVE_HIGH>
-		, <&pro_micro_d 14 GPIO_ACTIVE_HIGH>
-		, <&pro_micro_d 15 GPIO_ACTIVE_HIGH>
-		, <&pro_micro_a  0 GPIO_ACTIVE_HIGH>
-		, <&pro_micro_a  1 GPIO_ACTIVE_HIGH>
-		, <&pro_micro_a  2 GPIO_ACTIVE_HIGH>
+		= <&pro_micro_d 00 GPIO_ACTIVE_HIGH>
+		, <&pro_micro_d 24 GPIO_ACTIVE_HIGH>
+		, <&pro_micro_d 22 GPIO_ACTIVE_HIGH>
+		, <&pro_micro_d 20 GPIO_ACTIVE_HIGH>
+		, <&pro_micro_a 17 GPIO_ACTIVE_HIGH>
+		, <&pro_micro_a 8 GPIO_ACTIVE_HIGH>
+		, <&pro_micro_a 6 GPIO_ACTIVE_HIGH>
 		;
 };

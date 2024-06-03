@@ -53,7 +53,7 @@
 
         layer_2 {
             bindings = <
-&trans        &trans          &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4      &kp N5            &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp ESCAPE    &trans          &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4      &kp N5            &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &kp NUMBER_1  &kp TAB         &kp Q         &kp W         &kp E         &kp R             &kp T             &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &kp NUMBER_2  &kp LEFT_SHIFT  &kp A         &kp S         &kp D         &kp F             &kp G             &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &kp NUMBER_3  &kp LEFT_ALT    &kp X         &kp C         &kp V         &kp B                                       &trans  &trans  &trans  &trans  &trans  &tog 2
